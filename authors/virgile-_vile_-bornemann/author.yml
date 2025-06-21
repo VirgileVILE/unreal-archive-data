@@ -7,6 +7,8 @@ aliases:
 - "Virgile ''VILE''"
 - "Virgile Bornemann"
 - "Virgile 'Vile'"
-links: {}
+links: 
+  Homepage: "https://kyahime.infos.st/"
+about: "I first used UnrealEd in 2001. I have recently become interested in converting and importing models to UT/UT2004. My current projects are focused on Doom II."
 showAliases: false
 deleted: false
